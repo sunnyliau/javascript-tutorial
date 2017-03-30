@@ -89,7 +89,7 @@ alert( 'Too big' );
 alert( "I don't know such values" );
 ```
 
-````smart header="Any expresion can be a `switch/case` argument"
+````smart header="Any expression can be a `switch/case` argument"
 Both `switch` and case allow arbitrary expresions.
 
 For example:
